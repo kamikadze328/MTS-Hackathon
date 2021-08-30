@@ -26,3 +26,14 @@
 - Программа выдаёт изображения с картой покрытия и численную статистику (1 балл)
 - В программе можно посмотреть интерактивную карту покрытия (десктопное или веб-приложение) (3 балла)
 - В программе можно посмотреть интерактивную карту покрытия и посмотреть статистику покрытия в выделенной области (5 баллов)
+
+## Результат
+<img alt="" src="https://github.com/kamikadze328/MTS-Hackathon/blob/main/images/Screenshot_20210815_132120_com.kamikadze328.mtshackathon.jpg" width="350">   <img alt="" src="https://github.com/kamikadze328/MTS-Hackathon/blob/main/images/Screenshot_20210815_132344_com.kamikadze328.mtshackathon.jpg" width="350">  
+
+
+https://user-images.githubusercontent.com/48965524/131322922-821777af-b191-4a5f-a2cd-f720eab532a3.mp4
+
+
+
+https://user-images.githubusercontent.com/48965524/131322944-015be80b-bb27-4020-82b3-787b6e32607e.mp4
+
